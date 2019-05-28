@@ -1,5 +1,6 @@
 <html>
 	<head>
+		<title> git intro </title>
 	</head>
 
 	<body>test</body>
