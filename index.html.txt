@@ -10,6 +10,7 @@
 	data push
 	data pull
 	push.egoing
+	pull.leezche
 	</body>
 </html>
 test value
