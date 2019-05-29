@@ -1,4 +1,4 @@
-<html> insert new value
+<html> insert new value // new value
 	<head>
 		<title> git intro </title>
 	</head>
