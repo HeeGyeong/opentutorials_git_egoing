@@ -7,6 +7,7 @@
 	<body>test
 
 	data push
+	data pull
 	</body>
 </html>
 test value
