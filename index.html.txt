@@ -8,6 +8,7 @@
 
 	data push
 	data pull
+	push.egoing
 	</body>
 </html>
 test value
