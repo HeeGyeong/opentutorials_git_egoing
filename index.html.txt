@@ -1,5 +1,5 @@
 <html> insert new value // new value
-	<head>
+	<head> // head value 
 		<title> git intro </title>
 	</head>
 
