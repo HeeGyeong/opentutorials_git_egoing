@@ -10,6 +10,7 @@ test 1
 test 2
 new line is 0123
 충돌
+충돌해결
 master
 master2
 this space is change
