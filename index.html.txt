@@ -6,6 +6,7 @@
 
 	<body>test
 
+	sync.egoing
 	data push
 	data pull
 	push.egoing
