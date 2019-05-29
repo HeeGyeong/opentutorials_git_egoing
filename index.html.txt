@@ -13,6 +13,6 @@ master
 <<<<<<< HEAD
 master2
 =======
-
+요기에 추가하는 느낌일까?
 blank insert
 >>>>>>> testBranches_3
