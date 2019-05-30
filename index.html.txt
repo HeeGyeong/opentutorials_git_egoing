@@ -1,7 +1,7 @@
 <html> insert new value // new value
 	// ÀÎÄÚµù
 	<head> // head value 
-		<title> git intro </title>
+		<title> git intro duce!</title>
 	</head>
 
 	<body>test
