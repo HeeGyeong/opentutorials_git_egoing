@@ -12,7 +12,11 @@
 	push.egoing
 	pull.leezche
 	conflict.egoing.leezche
+<<<<<<< Updated upstream
 	╫╨ев╫ц
+=======
+	sta~!s
+>>>>>>> Stashed changes
 	</body>
 </html>
 test value
