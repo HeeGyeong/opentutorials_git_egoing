@@ -11,6 +11,7 @@
 	data pull
 	push.egoing
 	pull.leezche
+	conflict.egoing
 	</body>
 </html>
 test value
