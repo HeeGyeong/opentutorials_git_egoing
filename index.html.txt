@@ -10,6 +10,7 @@
 	data pull
 	push.egoing
 	pull.leezche
+	conflict leezche
 	</body>
 </html>
 test value
