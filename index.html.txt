@@ -12,6 +12,7 @@
 	push.egoing
 	pull.leezche
 	conflict.egoing.leezche
+	╫╨ев╫ц
 	</body>
 </html>
 test value
